@@ -4,8 +4,8 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.in28minutes.rest.webservices</groupId>
-	<artifactId>05-restful-web-services-full-stack-bankend</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<artifactId>ROOT</artifactId>
+	
 	<packaging>jar</packaging>
 
 	<name>restful-web-services</name>
