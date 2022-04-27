@@ -7,7 +7,7 @@ phases:
   post_build:
     commands:
       - mvn package
-      - mv target/ROOT.war ROOT.war
+      - mv target/ROOT-2.1.0.RELEASE.war ROOT.war
 artifacts:
   files:
     - ROOT.war
