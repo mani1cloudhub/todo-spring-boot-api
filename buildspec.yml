@@ -7,8 +7,8 @@ phases:
   post_build:
     commands:
       - mvn package
-      - mv target/ROOT-0.0.1-SNAPSHOT.war ROOT-0.0.1-SNAPSHOT.war
+      - mv target/ROOT.war ROOT.war
 artifacts:
   files:
-    - ROOT-0.0.1-SNAPSHOT.war
+    - ROOT.war
     - .ebextensions/**/*
